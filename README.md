@@ -1,3 +1,3 @@
 # Table of Content
-1. [DRF](#DRF/)
+1. [DRF](DRF/)
 
